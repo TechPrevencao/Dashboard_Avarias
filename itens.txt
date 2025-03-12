@@ -1,0 +1,14 @@
+barra lateral:
+
+datas
+*lojas* (implementar depois)
+*prevenção* (implementar depois)
+
+
+
+área de gráficos:
+
+valor de recuperação (furtos, degustações, avarias recuperadas)
+valor de perca (furtos, degustações, avarias)
+metas pra cada
+valor referente ao mês passado
